@@ -1,6 +1,0 @@
-@TestBearerToken_HostAddress = http://localhost:5062
-
-GET {{TestBearerToken_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
